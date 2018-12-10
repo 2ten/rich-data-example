@@ -6,117 +6,122 @@
    "description":"Measure: 5mm, 6mm, 7mm, 8mm, 8mm, 9mm, 10mm\r\nWeight: 2.75 Grams\r\nMaterial: 925 Sterling Silver, Rhodium Plating, Cubic Zirconia",
    "image":"https:\/\/media.blingjewelry.com\/media\/catalog\/product\/cache\/1\/image\/265x\/9df78eab33525d08d6e5fb8d27136e95\/r\/a\/rainbow-square-cz-stud-earrings_sls-ee010-rb-8.jpg",
    "url":"https:\/\/www.blingjewelry.com\/bling-jewelry-square-simulated-rainbow-topaz-cz-screwback-studs-925-silver.html?297=4579",
-   "offers":[  
-      [  
-      ],
-      {  
-         "@type":"Offer",
-         "priceCurrency":"USD",
-         "price":12.99,
-         "availability":"http:\/\/schema.org\/InStock",
-         "itemOffered":{  
-            "@type":"Product",
-            "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 5mm",
-            "sku":"SLS-EE010-RB-5-AZ",
-            "itemCondition":"http:\/\/schema.org\/NewCondition",
-            "mpn":"SLS-EE010-RB-5-AZ",
-            "gtin13":"0640626652025"
+   "offers":{  
+      "@type":"AggregateOffer",
+      "highPrice":"29.99",
+      "lowPrice":"12.99",
+      "offerCount":"6",
+      "priceCurrency":"USD",
+      "offers":[  
+         {  
+            "@type":"Offer",
+            "priceCurrency":"USD",
+            "price":12.99,
+            "availability":"http:\/\/schema.org\/InStock",
+            "itemOffered":{  
+               "@type":"Product",
+               "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 5mm",
+               "sku":"SLS-EE010-RB-5-AZ",
+               "itemCondition":"http:\/\/schema.org\/NewCondition",
+               "mpn":"SLS-EE010-RB-5-AZ",
+               "gtin13":"0640626652025"
+            },
+            "seller":{  
+               "@type":"Organization",
+               "name":"Bling Jewelry"
+            }
          },
-         "seller":{  
-            "@type":"Organization",
-            "name":"Bling Jewelry"
-         }
-      },
-      {  
-         "@type":"Offer",
-         "priceCurrency":"USD",
-         "price":14.99,
-         "availability":"http:\/\/schema.org\/InStock",
-         "itemOffered":{  
-            "@type":"Product",
-            "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 6mm",
-            "sku":"SLS-EE010-RB-6-AZ",
-            "itemCondition":"http:\/\/schema.org\/NewCondition",
-            "mpn":"SLS-EE010-RB-6-AZ",
-            "gtin13":"0640626652070"
+         {  
+            "@type":"Offer",
+            "priceCurrency":"USD",
+            "price":14.99,
+            "availability":"http:\/\/schema.org\/InStock",
+            "itemOffered":{  
+               "@type":"Product",
+               "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 6mm",
+               "sku":"SLS-EE010-RB-6-AZ",
+               "itemCondition":"http:\/\/schema.org\/NewCondition",
+               "mpn":"SLS-EE010-RB-6-AZ",
+               "gtin13":"0640626652070"
+            },
+            "seller":{  
+               "@type":"Organization",
+               "name":"Bling Jewelry"
+            }
          },
-         "seller":{  
-            "@type":"Organization",
-            "name":"Bling Jewelry"
-         }
-      },
-      {  
-         "@type":"Offer",
-         "priceCurrency":"USD",
-         "price":19.99,
-         "availability":"http:\/\/schema.org\/InStock",
-         "itemOffered":{  
-            "@type":"Product",
-            "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 7mm",
-            "sku":"SLS-EE010-RB-7-AZ",
-            "itemCondition":"http:\/\/schema.org\/NewCondition",
-            "mpn":"SLS-EE010-RB-7-AZ",
-            "gtin13":"0640626652131"
+         {  
+            "@type":"Offer",
+            "priceCurrency":"USD",
+            "price":19.99,
+            "availability":"http:\/\/schema.org\/InStock",
+            "itemOffered":{  
+               "@type":"Product",
+               "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 7mm",
+               "sku":"SLS-EE010-RB-7-AZ",
+               "itemCondition":"http:\/\/schema.org\/NewCondition",
+               "mpn":"SLS-EE010-RB-7-AZ",
+               "gtin13":"0640626652131"
+            },
+            "seller":{  
+               "@type":"Organization",
+               "name":"Bling Jewelry"
+            }
          },
-         "seller":{  
-            "@type":"Organization",
-            "name":"Bling Jewelry"
-         }
-      },
-      {  
-         "@type":"Offer",
-         "priceCurrency":"USD",
-         "price":22.99,
-         "availability":"http:\/\/schema.org\/InStock",
-         "itemOffered":{  
-            "@type":"Product",
-            "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 8mm",
-            "sku":"SLS-EE010-RB-8-AZ",
-            "itemCondition":"http:\/\/schema.org\/NewCondition",
-            "mpn":"SLS-EE010-RB-8-AZ",
-            "gtin13":"0640626652254"
+         {  
+            "@type":"Offer",
+            "priceCurrency":"USD",
+            "price":22.99,
+            "availability":"http:\/\/schema.org\/InStock",
+            "itemOffered":{  
+               "@type":"Product",
+               "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 8mm",
+               "sku":"SLS-EE010-RB-8-AZ",
+               "itemCondition":"http:\/\/schema.org\/NewCondition",
+               "mpn":"SLS-EE010-RB-8-AZ",
+               "gtin13":"0640626652254"
+            },
+            "seller":{  
+               "@type":"Organization",
+               "name":"Bling Jewelry"
+            }
          },
-         "seller":{  
-            "@type":"Organization",
-            "name":"Bling Jewelry"
-         }
-      },
-      {  
-         "@type":"Offer",
-         "priceCurrency":"USD",
-         "price":24.99,
-         "availability":"http:\/\/schema.org\/InStock",
-         "itemOffered":{  
-            "@type":"Product",
-            "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 9mm",
-            "sku":"SLS-EE010-RB-9-AZ",
-            "itemCondition":"http:\/\/schema.org\/NewCondition",
-            "mpn":"SLS-EE010-RB-9-AZ",
-            "gtin13":"0640626652452"
+         {  
+            "@type":"Offer",
+            "priceCurrency":"USD",
+            "price":24.99,
+            "availability":"http:\/\/schema.org\/InStock",
+            "itemOffered":{  
+               "@type":"Product",
+               "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 9mm",
+               "sku":"SLS-EE010-RB-9-AZ",
+               "itemCondition":"http:\/\/schema.org\/NewCondition",
+               "mpn":"SLS-EE010-RB-9-AZ",
+               "gtin13":"0640626652452"
+            },
+            "seller":{  
+               "@type":"Organization",
+               "name":"Bling Jewelry"
+            }
          },
-         "seller":{  
-            "@type":"Organization",
-            "name":"Bling Jewelry"
+         {  
+            "@type":"Offer",
+            "priceCurrency":"USD",
+            "price":29.99,
+            "availability":"http:\/\/schema.org\/InStock",
+            "itemOffered":{  
+               "@type":"Product",
+               "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 10mm",
+               "sku":"SLS-EE010-RB-10-AZ",
+               "itemCondition":"http:\/\/schema.org\/NewCondition",
+               "mpn":"SLS-EE010-RB-10-AZ",
+               "gtin13":"0640626652544"
+            },
+            "seller":{  
+               "@type":"Organization",
+               "name":"Bling Jewelry"
+            }
          }
-      },
-      {  
-         "@type":"Offer",
-         "priceCurrency":"USD",
-         "price":29.99,
-         "availability":"http:\/\/schema.org\/InStock",
-         "itemOffered":{  
-            "@type":"Product",
-            "name":"Bling Jewelry Square Simulated Rainbow Topaz CZ Screwback Studs 925 Silver 10mm",
-            "sku":"SLS-EE010-RB-10-AZ",
-            "itemCondition":"http:\/\/schema.org\/NewCondition",
-            "mpn":"SLS-EE010-RB-10-AZ",
-            "gtin13":"0640626652544"
-         },
-         "seller":{  
-            "@type":"Organization",
-            "name":"Bling Jewelry"
-         }
-      }
-   ],
+      ]
+   },
    "mpn":"SLS-EE010-RB-PAR"
 }
